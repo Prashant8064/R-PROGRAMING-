@@ -68,10 +68,8 @@ This project is licensed under the MIT License, so feel free to use and modify.
 Contributions, issues, and suggestions are welcome! Feel free to fork the repo and submit a pull request.
 
 📧 Contact
-For queries or collaborations, reach out at: your-email@example.com
+For queries or collaborations, reach out at: prashantgupta8064@gmail.com
 
 Happy coding! 🎉
 
-yaml
-Copy
-Edit
+
